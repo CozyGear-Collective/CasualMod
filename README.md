@@ -1,0 +1,2 @@
+# CasualMod
+Mod for Valheim.
