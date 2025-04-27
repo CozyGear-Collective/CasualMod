@@ -4,8 +4,7 @@
 
 
 # But not these...
-!setup.sh
-!run.sh
+!*.sh
 !BepInEx/
 !BepInEx/plugins/
 !BepInEx/plugins/**
